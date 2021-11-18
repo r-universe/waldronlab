@@ -1,0 +1,17 @@
+[
+  {
+    "package": "MultiAssayExperiment"
+  },
+  {
+    "package": "TCGAutils"
+  },
+  {
+    "package": "curatedTCGAData"
+  },
+  {
+    "package": "cBioPortalData"
+  },
+  {
+    "package": "SingleCellMultiModal"
+  }
+]

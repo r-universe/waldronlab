@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/waldronlab/universe
 	shallow = true
 	branch = HEAD
+[submodule "MultiAssayExperiment"]
+	path = MultiAssayExperiment
+	url = https://github.com/waldronlab/MultiAssayExperiment
+	shallow = true
+	registered = true
+[submodule "TCGAutils"]
+	path = TCGAutils
+	url = https://github.com/waldronlab/TCGAutils
+	shallow = true
+	registered = true
+[submodule "curatedTCGAData"]
+	path = curatedTCGAData
+	url = https://github.com/waldronlab/curatedTCGAData
+	shallow = true
+	registered = true
+[submodule "cBioPortalData"]
+	path = cBioPortalData
+	url = https://github.com/waldronlab/cBioPortalData
+	shallow = true
+	registered = true
+[submodule "SingleCellMultiModal"]
+	path = SingleCellMultiModal
+	url = https://github.com/waldronlab/SingleCellMultiModal
+	shallow = true
+	registered = true
