@@ -7,7 +7,6 @@
 	path = MultiAssayExperiment
 	url = https://github.com/waldronlab/MultiAssayExperiment
 	shallow = true
-	branch = master
 	registered = true
 [submodule "TCGAutils"]
 	path = TCGAutils
