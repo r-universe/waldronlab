@@ -28,3 +28,13 @@
 	url = https://github.com/waldronlab/SingleCellMultiModal
 	shallow = true
 	registered = true
+[submodule "TENxIO"]
+	path = TENxIO
+	url = https://github.com/waldronlab/TENxIO
+	shallow = true
+	registered = true
+[submodule "terraTCGAdata"]
+	path = terraTCGAdata
+	url = https://github.com/waldronlab/terraTCGAdata
+	shallow = true
+	registered = true
