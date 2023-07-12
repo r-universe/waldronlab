@@ -23,3 +23,6 @@
 [submodule "terraTCGAdata"]
 	path = terraTCGAdata
 	url = https://github.com/waldronlab/terraTCGAdata
+[submodule "MicrobiomeBenchmarkData"]
+	path = MicrobiomeBenchmarkData
+	url = https://github.com/waldronlab/MicrobiomeBenchmarkData
