@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/waldronlab/universe
 	branch = HEAD
-[submodule "MultiAssayExperiment"]
-	path = MultiAssayExperiment
-	url = https://github.com/waldronlab/MultiAssayExperiment
-[submodule "TCGAutils"]
-	path = TCGAutils
-	url = https://github.com/waldronlab/TCGAutils
-[submodule "curatedTCGAData"]
-	path = curatedTCGAData
-	url = https://github.com/waldronlab/curatedTCGAData
-[submodule "cBioPortalData"]
-	path = cBioPortalData
-	url = https://github.com/waldronlab/cBioPortalData
-[submodule "SingleCellMultiModal"]
-	path = SingleCellMultiModal
-	url = https://github.com/waldronlab/SingleCellMultiModal
-[submodule "TENxIO"]
-	path = TENxIO
-	url = https://github.com/waldronlab/TENxIO
-[submodule "terraTCGAdata"]
-	path = terraTCGAdata
-	url = https://github.com/waldronlab/terraTCGAdata
 [submodule "MicrobiomeBenchmarkData"]
 	path = MicrobiomeBenchmarkData
 	url = https://github.com/waldronlab/MicrobiomeBenchmarkData
+[submodule "MultiAssayExperiment"]
+	path = MultiAssayExperiment
+	url = https://github.com/waldronlab/MultiAssayExperiment
+[submodule "SingleCellMultiModal"]
+	path = SingleCellMultiModal
+	url = https://github.com/waldronlab/SingleCellMultiModal
+[submodule "TCGAutils"]
+	path = TCGAutils
+	url = https://github.com/waldronlab/TCGAutils
+[submodule "TENxIO"]
+	path = TENxIO
+	url = https://github.com/waldronlab/TENxIO
+[submodule "cBioPortalData"]
+	path = cBioPortalData
+	url = https://github.com/waldronlab/cBioPortalData
+[submodule "curatedTCGAData"]
+	path = curatedTCGAData
+	url = https://github.com/waldronlab/curatedTCGAData
+[submodule "terraTCGAdata"]
+	path = terraTCGAdata
+	url = https://github.com/waldronlab/terraTCGAdata
