@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/waldronlab/universe
+	url = https://github.com/waldronlab/waldronlab.r-universe.dev
 	branch = HEAD
 [submodule "MicrobiomeBenchmarkData"]
 	path = MicrobiomeBenchmarkData
