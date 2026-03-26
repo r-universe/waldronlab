@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/waldronlab/waldronlab.r-universe.dev
 	branch = HEAD
+[submodule "GSEABase"]
+	path = GSEABase
+	url = https://github.com/waldronlab/GSEABase
+[submodule "GSEABenchmarkeR"]
+	path = GSEABenchmarkeR
+	url = https://github.com/waldronlab/GSEABenchmarkeR
+[submodule "HMP16SData"]
+	path = HMP16SData
+	url = https://github.com/waldronlab/HMP16SData
 [submodule "MicrobiomeBenchmarkData"]
 	path = MicrobiomeBenchmarkData
 	url = https://github.com/waldronlab/MicrobiomeBenchmarkData
@@ -17,12 +26,39 @@
 [submodule "TENxIO"]
 	path = TENxIO
 	url = https://github.com/waldronlab/TENxIO
+[submodule "VisiumIO"]
+	path = VisiumIO
+	url = https://github.com/waldronlab/VisiumIO
+[submodule "XeniumIO"]
+	path = XeniumIO
+	url = https://github.com/waldronlab/XeniumIO
+[submodule "bedbaser"]
+	path = bedbaser
+	url = https://github.com/waldronlab/bedbaser
+[submodule "bugphyzz"]
+	path = bugphyzz
+	url = https://github.com/waldronlab/bugphyzz
+[submodule "bugsigdbr"]
+	path = bugsigdbr
+	url = https://github.com/waldronlab/bugsigdbr
 [submodule "cBioPortalData"]
 	path = cBioPortalData
 	url = https://github.com/waldronlab/cBioPortalData
+[submodule "curatedMetagenomicData"]
+	path = curatedMetagenomicData
+	url = https://github.com/waldronlab/curatedMetagenomicData
+[submodule "curatedOvarianData"]
+	path = curatedOvarianData
+	url = https://github.com/waldronlab/curatedOvarianData
 [submodule "curatedTCGAData"]
 	path = curatedTCGAData
 	url = https://github.com/waldronlab/curatedTCGAData
+[submodule "doppelgangR"]
+	path = doppelgangR
+	url = https://github.com/waldronlab/doppelgangR
+[submodule "lefser"]
+	path = lefser
+	url = https://github.com/waldronlab/lefser
 [submodule "terraTCGAdata"]
 	path = terraTCGAdata
 	url = https://github.com/waldronlab/terraTCGAdata
